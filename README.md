@@ -3,7 +3,7 @@
 
 <h3 align="left">About me:</h3>
 <p align="left"> I finished my technical diploma, IT assistant, on July 2021. I learned many different programming languages,
-but I used C#, MySQL, HTMl & CSS the most.</p>
+but I used C#, MySQL, HTMl, CSS & JS the most.</p>
 
 <h3 align="left">Other stuff I worked on:</h3>
 <p align="left">coming soon</p>
