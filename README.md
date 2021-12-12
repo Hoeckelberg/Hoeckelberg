@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marvin</h1>
-<h3 align="center">I am from North Rhine-Westphalia in Germany, 19 years old and I like to code in my free-time</h3>
+<h3 align="center">I am from North Rhine-Westphalia - Germany, 20 years old and I like to sometimes code in my free-time</h3>
 
 <h3 align="left">About me:</h3>
 <p align="left"> I finished my technical diploma, IT assistant, on July 2021. I learned many different programming languages,
-but I used C#, MySQL, HTMl, CSS & JS the most.</p>
+but I used C#, MySQL, HTMl, CSS & JS the most. Right now im working & getting an education as a Specialist Application Developer in Cologne</p>
 
 <h3 align="left">Other stuff I worked on:</h3>
 <p align="left">coming soon</p>
