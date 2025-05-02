@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, You can call me Mav</h1>
-<h3 align="center">I am from North Rhine-Westphalia - Germany, 20 years old and I like to sometimes code in my free time.</h3>
+<h3 align="center">....</h3>
 
 <h3>About me: </h4>
-I finished my technical diploma, IT assistant, on July 2021. I learned many different programming languages, but I used C#, MySQL/MSSQL, HTMl, CSS & JS the most. Right now im working & getting an education as a Specialist Application Developer in Cologne**
+...
 
 <h3 align="left">Other stuff I worked on:</h3>
 coming soon...
