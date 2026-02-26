@@ -2,7 +2,7 @@
 
 ### Microsoft Power Platform Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hoeckelberg&label=Profile views&color=0e75b6&style=flat" alt="Hoeckelberg" /> </p>
+<p align="left">Pro Code | PCF | Azure | AI | Automation </p>
 
 - 🔭 I'm currently working on **Automation projects within the Microsoft Power Platform**
 
